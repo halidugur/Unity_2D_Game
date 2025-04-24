@@ -13,10 +13,11 @@ Bu proje, Unity ile geliştirilmiş bir 2D Android platform oyunudur. Oyuncu, fa
 
 ## 📷 Ekran Görüntüleri
 
-> Ekran görüntüleri buraya eklenecek (örn: `Assets/Screenshots/level1.png`)
-> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\bolumler.png
-> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\Menu.png
-> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\Oyunici.png
+![bolumler](https://github.com/user-attachments/assets/1558d106-8de6-4cf3-bb62-19245ed957fc)
+
+![Menu](https://github.com/user-attachments/assets/c0cf9ca4-5ba6-4a3d-bf20-ac8a23034df4)
+
+![Oyunici](https://github.com/user-attachments/assets/0ef186ec-12f0-4ed7-ad46-9d048071cade)
 
 ## 🧩 Özellikler
 
@@ -37,7 +38,6 @@ Bu proje, Unity ile geliştirilmiş bir 2D Android platform oyunudur. Oyuncu, fa
 
 ## 🚧 Bilinen Hatalar
 
-- [ ] Android'de bazı cihazlarda FPS düşüşü  
 - [ ] Karakter çarpışmalarında nadir bug'lar  
 
 ## ✨ Katkıda Bulun
@@ -46,8 +46,7 @@ Pull request'lere açığım. Forklayıp geliştirebilir, önerilerini iletebili
 
 ## 📜 Lisans
 
-MIT Lisansı  
-Detaylar için `LICENSE` dosyasına bakabilirsin.
+---
 
 ---
 
