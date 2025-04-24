@@ -1,11 +1,3 @@
-## 📷 Ekran Görüntüleri
-
-![bolumler](https://github.com/user-attachments/assets/1558d106-8de6-4cf3-bb62-19245ed957fc)
-
-![Menu](https://github.com/user-attachments/assets/c0cf9ca4-5ba6-4a3d-bf20-ac8a23034df4)
-
-![Oyunici](https://github.com/user-attachments/assets/0ef186ec-12f0-4ed7-ad46-9d048071cade)
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🎮 2D Android Platform Game
@@ -54,3 +46,12 @@ Pull request'lere açığım. Forklayıp geliştirebilir, önerilerini iletebili
 ---
 
 > 🧠 Not: Bu proje kişisel öğrenme, geliştirme ve portföy amacıyla yapılmıştır.
+
+
+## 📷 Ekran Görüntüleri
+
+![bolumler](https://github.com/user-attachments/assets/1558d106-8de6-4cf3-bb62-19245ed957fc)
+
+![Menu](https://github.com/user-attachments/assets/c0cf9ca4-5ba6-4a3d-bf20-ac8a23034df4)
+
+![Oyunici](https://github.com/user-attachments/assets/0ef186ec-12f0-4ed7-ad46-9d048071cade)
