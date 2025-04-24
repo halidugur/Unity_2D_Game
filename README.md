@@ -14,6 +14,9 @@ Bu proje, Unity ile geliştirilmiş bir 2D Android platform oyunudur. Oyuncu, fa
 ## 📷 Ekran Görüntüleri
 
 > Ekran görüntüleri buraya eklenecek (örn: `Assets/Screenshots/level1.png`)
+> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\bolumler.png
+> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\Menu.png
+> C:\Users\hltug\OneDrive\Masaüstü\Yeni klasör\Oyunici.png
 
 ## 🧩 Özellikler
 
