@@ -134,7 +134,9 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 1.0.2
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 4343591957666427224, guid: 01cbba9dcef016c4b875adb0ad1f1ca9, type: 2}
+  - {fileID: 11400000, guid: 7c496510528270b4c8915ff71ea30fb3, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -143,7 +145,7 @@ PlayerSettings:
   vrSettings:
     enable360StereoCapture: 0
   isWsaHolographicRemotingEnabled: 0
-  enableFrameTimingStats: 0
+  enableFrameTimingStats: 1
   enableOpenGLProfilerGPURecorders: 1
   useHDRDisplay: 0
   hdrBitDepth: 0

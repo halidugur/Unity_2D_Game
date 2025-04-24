@@ -3582,7 +3582,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1295400188}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc62161eb1ffd854ba281303c7537f49, type: 3}
+  m_Script: {fileID: 11500000, guid: a8c052a8457652d4b9b2832ade2da11e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1430753721}
@@ -3772,7 +3772,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1430753714}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9767c68352d8ab5419bf858e09fa5160, type: 3}
+  m_Script: {fileID: 11500000, guid: 64638406ffadc15488818c40d3af5f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   etkinCanvas: {fileID: 1664098653}
@@ -3785,7 +3785,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1430753714}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb16e585871dbb64395a7b8b8c1d19db, type: 3}
+  m_Script: {fileID: 11500000, guid: 617ab63b40810854eb7ddd9562c7df42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   etkinCanvas: {fileID: 1684257325}
@@ -3825,14 +3825,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1430753714}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 758841889c1a2194d862d86156f225ed, type: 3}
+  m_Script: {fileID: 11500000, guid: c261266d651b2794aa6630b8bc0ffe27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
   jumpForce: 5.8
   groundLayer:
     serializedVersion: 2
-    m_Bits: 16
+    m_Bits: 0
 --- !u!212 &1430753720
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4569,7 +4569,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1376139716}
         m_TargetAssemblyTypeName: sahneler, Assembly-CSharp
-        m_MethodName: fiveAc
+        m_MethodName: sixAc
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4635,7 +4635,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1664098654
 MonoBehaviour:
   m_ObjectHideFlags: 0

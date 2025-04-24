@@ -414,7 +414,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 211275341}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9767c68352d8ab5419bf858e09fa5160, type: 3}
+  m_Script: {fileID: 11500000, guid: 64638406ffadc15488818c40d3af5f78, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   etkinCanvas: {fileID: 1985477883}
@@ -427,7 +427,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 211275341}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb16e585871dbb64395a7b8b8c1d19db, type: 3}
+  m_Script: {fileID: 11500000, guid: 617ab63b40810854eb7ddd9562c7df42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   etkinCanvas: {fileID: 1691279793}
@@ -467,7 +467,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 211275341}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 758841889c1a2194d862d86156f225ed, type: 3}
+  m_Script: {fileID: 11500000, guid: c261266d651b2794aa6630b8bc0ffe27, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 3
@@ -3346,7 +3346,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1131691303}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cc62161eb1ffd854ba281303c7537f49, type: 3}
+  m_Script: {fileID: 11500000, guid: a8c052a8457652d4b9b2832ade2da11e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 211275348}
