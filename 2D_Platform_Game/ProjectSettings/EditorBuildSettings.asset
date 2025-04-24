@@ -8,4 +8,38 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/bolumler.unity
+    guid: b0835e24c87b7f144a945bfae5c0d5de
+  - enabled: 1
+    path: Assets/Scenes/bolumleriki.unity
+    guid: c1b5f5fdfa29c6f498d60f74e2005d9c
+  - enabled: 1
+    path: Assets/Scenes/bolumleruc.unity
+    guid: b2f26b4fdca099b4ba707151b28cb984
+  - enabled: 1
+    path: Assets/Scenes/five.unity
+    guid: 2071daeba9cb00945aa4c453b2712703
+  - enabled: 1
+    path: Assets/Scenes/four.unity
+    guid: b40bae3aa227ddd4ea0e0836b7af6b11
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: be7810bd352a2314795e8a2c537d4343
+  - enabled: 1
+    path: Assets/Scenes/one.unity
+    guid: 899af87f7c99c6442a3a4989fbaf97bf
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 4f5a45a98fed83d499df9dcce59bf96b
+  - enabled: 1
+    path: Assets/Scenes/six.unity
+    guid: c3f6675b146b98d4096b1f246d9c2a41
+  - enabled: 1
+    path: Assets/Scenes/three.unity
+    guid: 51315e95d71272a4e8a8c286a80cc756
+  - enabled: 1
+    path: Assets/Scenes/two.unity
+    guid: d69eac0283bf7184492e40c6a2739e34
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 261ce10eecef85949a6b3a373f979ccd, type: 2}

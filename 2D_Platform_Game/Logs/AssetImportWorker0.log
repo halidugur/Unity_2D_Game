@@ -15,7 +15,7 @@ C:/Users/hltug/OneDrive/Masaüstü/Unity_2D_Game/2D_Platform_Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57146
+59678
 Successfully changed project path to: C:/Users/hltug/OneDrive/Masaüstü/Unity_2D_Game/2D_Platform_Game
 C:/Users/hltug/OneDrive/Masaüstü/Unity_2D_Game/2D_Platform_Game
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,11 +49,11 @@ C:/Users/hltug/OneDrive/Masaüstü/Unity_2D_Game/2D_Platform_Game
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [12760] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 10713779 [EditorId] 10713779 [Version] 1048832 [Id] WindowsEditor(7,hallo) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [3932] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 1470004930 [EditorId] 1470004930 [Version] 1048832 [Id] WindowsEditor(7,hallo) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [12760] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 10713779 [EditorId] 10713779 [Version] 1048832 [Id] WindowsEditor(7,hallo) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [3932] Host "[IP] 192.168.1.40 [Port] 0 [Flags] 2 [Guid] 1470004930 [EditorId] 1470004930 [Version] 1048832 [Id] WindowsEditor(7,hallo) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 386.48 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 374.39 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.3f1 (7cdc2969a641)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Resources/UnitySubsystems
@@ -69,52 +69,10 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56744
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56348
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.657887 seconds.
-- Loaded All Assemblies, in  3.161 seconds
-Native extension for WindowsStandalone target not found
-Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 1449 ms
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  3.618 seconds
-Domain Reload Profiling: 6750ms
-	BeginReloadAssembly (627ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (0ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (5ms)
-	RebuildCommonClasses (188ms)
-	RebuildNativeTypeToScriptingClass (68ms)
-	initialDomainReloadingComplete (1495ms)
-	LoadAllAssembliesAndSetupDomain (752ms)
-		LoadAssemblies (614ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (641ms)
-			TypeCache.Refresh (637ms)
-				TypeCache.ScanAssembly (586ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (2ms)
-	FinalizeReload (3619ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (3394ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2006ms)
-			SetLoadedEditorAssemblies (16ms)
-			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (9ms)
-			ProcessInitializeOnLoadAttributes (896ms)
-			ProcessInitializeOnLoadMethodAttributes (467ms)
-			AfterProcessingInitializeOnLoad (0ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (0ms)
-========================================================================
-Worker process is ready to serve import requests
+Registered in 0.354201 seconds.
